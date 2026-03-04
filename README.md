@@ -1,1 +1,1 @@
-# Laboratorio_5
+# Laboratorios

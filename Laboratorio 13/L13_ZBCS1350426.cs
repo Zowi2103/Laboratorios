@@ -53,7 +53,7 @@ class Program
         v1.modelo = "Sentra";
         v1.anio = 2020;
         v1.color = "Negro";
-        v1.placa = "23A56D";
+        v1.placa = "12345Z";
 
         Console.WriteLine("Ejercicio 2");
         Console.WriteLine("Marca: " + v1.marca);
@@ -64,17 +64,17 @@ class Program
 
         //Ejercicio 3:
         Producto p1 = new Producto();
-        p1.codigo = "P001";
-        p1.nombre = "Laptop";
-        p1.precio = 7500.50;
-        p1.stock = 10;
+        p1.codigo = "211725";
+        p1.nombre = "Audifonos";
+        p1.precio = 890;
+        p1.stock = 3;
         p1.disponible = true;
 
         Producto p2 = new Producto();
-        p2.codigo = "P002";
-        p2.nombre = "Mouse";
-        p2.precio = 150.75;
-        p2.stock = 25;
+        p2.codigo = "030223";
+        p2.nombre = "Taza";
+        p2.precio = 60;
+        p2.stock = 30;
         p2.disponible = true;
 
         Console.WriteLine("Ejercicio 3");
